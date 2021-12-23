@@ -1,0 +1,4 @@
+name: CraftingMiss
+version: '${project.version}'
+main: com.github.ozmt.crafting_miss.craftingmiss.CraftingMiss
+authors: [ tomato111 ]
